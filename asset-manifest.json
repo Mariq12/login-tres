@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/login-tres/static/css/main.aefc65b0.css",
+    "main.js": "/login-tres/static/js/main.f781c7b3.js",
+    "static/js/453.29ac58d6.chunk.js": "/login-tres/static/js/453.29ac58d6.chunk.js",
+    "static/media/paisaje.jpg": "/login-tres/static/media/paisaje.82c4caf4c3461e38b988.jpg",
+    "index.html": "/login-tres/index.html",
+    "main.aefc65b0.css.map": "/login-tres/static/css/main.aefc65b0.css.map",
+    "main.f781c7b3.js.map": "/login-tres/static/js/main.f781c7b3.js.map",
+    "453.29ac58d6.chunk.js.map": "/login-tres/static/js/453.29ac58d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aefc65b0.css",
+    "static/js/main.f781c7b3.js"
+  ]
+}
